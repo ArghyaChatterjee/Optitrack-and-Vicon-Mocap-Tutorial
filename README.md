@@ -15,5 +15,8 @@ This is a tutorial repository for opti track motion capture system.
 - Here is a guideline on how to place a marker: https://docs.optitrack.com/motive/rigid-body-tracking
 - Avoid placing the markers in symmetrical shapes such as squares, isosceles, or equilateral triangles. Symmetrical arrangements make asset identification difficult and may cause the Rigid Body assets to flip during capture.
 
+## Resources
+- Mocap4ROS Vicon [[code]](https://github.com/IntelligentRoboticsLabs/mocap4ros_vicon) [[paper]]() [[video]]() 
+
 ## Contribution
 This tutorial was written by Arghya Chatterjee. You can contact him via `arghyame20buet@gmail.com` for further info.
