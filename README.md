@@ -1,6 +1,8 @@
 # All-About-Optitrack-Motion-Capture-Mocap
 This is a tutorial repository for opti track motion capture system.
 
+[![](media/mocap.png)](https://youtu.be/VcUyDthACsI) 
+
 ## Start with calibration
 - You have to start with the calibration process first since each time you open the system, the cameras may have moved from their previous position. Do the calibration with the wand and set the ground plane accordingly.
 - Set the reference orientation of the 3 markers centroid to be (0, 0, 0). Right click on the centroid of the markers --> Reset Pivot.
