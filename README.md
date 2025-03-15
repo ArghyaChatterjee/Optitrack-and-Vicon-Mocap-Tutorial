@@ -1,4 +1,4 @@
-# All-About-Optitrack-Motion-Capture-Mocap
+# All About Optitrack Motion Capture Mocap
 This is a tutorial repository for opti track motion capture system.
 
 [![](media/mocap.png)](https://youtu.be/VcUyDthACsI) 
