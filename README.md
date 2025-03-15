@@ -19,12 +19,11 @@ This is a tutorial repository for opti track motion capture system.
 - Avoid placing the markers in symmetrical shapes such as squares, isosceles, or equilateral triangles. Symmetrical arrangements make asset identification difficult and may cause the Rigid Body assets to flip during capture.
 
 ## Articulated Object Pose
-- EasyMocap [[code]](https://github.com/zju3dv/EasyMocap) [[paper]]() video]]()
+- EasyMocap [[code]](https://github.com/zju3dv/EasyMocap) [[paper]]() [[video]]()
 - Human Motion Capture [[code]](https://github.com/visonpon/human-motion-capture) [[paper]]() [[video]]()
 - FrankMocap [[code]](https://github.com/facebookresearch/frankmocap) [[paper]]() [[video]]() 
 - Awesome Human Pose Estimation [[code]](https://github.com/wangzheallen/awesome-human-pose-estimation) [[paper]]() [[video]]() 
 
-[![quickstart](https://img.shields.io/badge/quickstart-green)](./doc/realtime_visualization.md)
 <div align="center">
     <img src="media/skel-body25.gif" width="26%">
     <img src="media/skel-total.gif" width="26%">
