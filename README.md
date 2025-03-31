@@ -42,8 +42,12 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 ## Robot Pose Estimation
 
 <div align="center">
-    <img src="media/frames.png" width="33%">
-    <img src="media/traj.png" width="33%">
+    <img src="media/frames.png" width="26%">
+    <img src="media/traj.png" width="26%">
+    <img src="media/interp.png" width="26%">
+</div>
+<div align="center">
+    <img src="media/gt_vicon.png" width="52%">
 </div>
 
 ### Resources 
