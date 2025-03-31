@@ -42,12 +42,12 @@ This is a tutorial repository for opti track motion capture system.
 ## Robot Pose Estimation
 
 <div align="center">
-    <img src="media/frames.png" width="26%">
-    <img src="media/traj.png" width="26%">
+    <img src="media/frames.png" width="33%">
+    <img src="media/traj.png" width="33%">
 </div>
 
 ### Resources 
-- Vicon2GT [[code]](https://github.com/rpng/vicon2gt)
+- Vicon2GT [[code]](https://github.com/rpng/vicon2gt) [[pdf]]()
 
 ## ROS Resources
 - Mocap4ROS2 Project [[code]](https://github.com/MOCAP4ROS2-Project) [[paper]]() [[video]]() 
