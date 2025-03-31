@@ -47,7 +47,7 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
     <img src="media/interp.png" width="26%">
 </div>
 <div align="center">
-    <img src="media/gt_vicon.png" width="52%">
+    <img src="media/gt_vicon.png" width="78%">
 </div>
 
 ### Resources 
