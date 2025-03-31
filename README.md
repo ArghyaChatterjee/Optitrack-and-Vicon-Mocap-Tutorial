@@ -1,5 +1,5 @@
 # All About Optitrack and Vicon Motion Capture
-This is a tutorial repository for opti track motion capture system.
+This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 
 [![](media/mocap.png)](https://youtu.be/VcUyDthACsI) 
 
@@ -47,7 +47,7 @@ This is a tutorial repository for opti track motion capture system.
 </div>
 
 ### Resources 
-- Vicon2GT [[code]](https://github.com/rpng/vicon2gt) [[pdf]]()
+- Vicon2GT [[code]](https://github.com/rpng/vicon2gt) [[pdf]](https://github.com/ArghyaChatterjee/All-About-Optitrack-Motion-Capture-Mocap/blob/main/tr_vicon2gt.pdf)
 
 ## ROS Resources
 - Mocap4ROS2 Project [[code]](https://github.com/MOCAP4ROS2-Project) [[paper]]() [[video]]() 
