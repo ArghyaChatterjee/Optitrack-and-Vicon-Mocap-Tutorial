@@ -43,7 +43,7 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 ### Using Opti-Track Motion Capture
 
 <div align="center">
-    <img src="media/gt_vicon.png" width="78%">
+    <img src="media/mocap_to_camera.png" width="78%">
 </div>
 
 ### Using Vicon Motion Capture
