@@ -61,7 +61,8 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 </div>
 
 ### Resources
-- Eye in Hand Toolbox [[code]](https://github.com/liaochikon/Eye-in-hand-toolbox) 
+- Eye in Hand Toolbox [[code]](https://github.com/liaochikon/Eye-in-hand-toolbox)
+- Hand Eye Calibration [[website]](https://campar.in.tum.de/Chair/HandEyeCalibration)
 
 ## ROS Resources
 - Mocap4ROS2 Project [[code]](https://github.com/MOCAP4ROS2-Project) [[paper]]() [[video]]() 
