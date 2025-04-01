@@ -53,6 +53,16 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 ### Resources 
 - Vicon2GT [[code]](https://github.com/rpng/vicon2gt) [[pdf]](https://github.com/ArghyaChatterjee/All-About-Optitrack-Motion-Capture-Mocap/blob/main/tr_vicon2gt.pdf)
 
+## Manipulator Pose Estimation
+
+<div align="center">
+    <img src="media/robot_1.png" width="39%">
+    <img src="media/robot_2.png" width="39%">
+</div>
+
+### Resources
+- Eye in Hand Toolbox [[code]](https://github.com/liaochikon/Eye-in-hand-toolbox) 
+
 ## ROS Resources
 - Mocap4ROS2 Project [[code]](https://github.com/MOCAP4ROS2-Project) [[paper]]() [[video]]() 
 - Mocap4ROS2 Optitrack [[code]](https://github.com/MOCAP4ROS2-Project/mocap4ros2_optitrack) [[paper]]() [[video]]()
