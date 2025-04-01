@@ -18,6 +18,10 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 - Here is a guideline on how to place a marker: https://docs.optitrack.com/motive/rigid-body-tracking
 - Avoid placing the markers in symmetrical shapes such as squares, isosceles, or equilateral triangles. Symmetrical arrangements make asset identification difficult and may cause the Rigid Body assets to flip during capture.
 
+<div align="center">
+    <img src="media/camera_to_object.png" width="78%">
+</div>
+
 ### Marker Pose Estimation
 - Aligning rigid body pivot point with a replicated 3D Model [[website]](https://docs.optitrack.com/motive/rigid-body-tracking/aligning-rigid-body-pivot-point-with-a-replicated-3d-model)
 - Rigid Body Animation [[code]](https://aaronolsen.github.io/tutorials/motion/unification.html)
