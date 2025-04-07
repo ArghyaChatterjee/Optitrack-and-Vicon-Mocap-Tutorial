@@ -28,13 +28,6 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 
 ## Articulated Object Pose Estimation
 
-### Resources
-- EasyMocap [[code]](https://github.com/zju3dv/EasyMocap) [[paper]]() [[video]]()
-- Human Motion Capture [[code]](https://github.com/visonpon/human-motion-capture) [[paper]]() [[video]]()
-- FrankMocap [[code]](https://github.com/facebookresearch/frankmocap) [[paper]]() [[video]]() 
-- Awesome Human Pose Estimation [[code]](https://github.com/wangzheallen/awesome-human-pose-estimation) [[paper]]() [[video]]()
-- SnowMocap [[code]](https://github.com/liaochikon/SnowMocap) [[paper]]() [[video]]() 
-
 <div align="center">
     <img src="media/skel-body25.gif" width="26%">
     <img src="media/skel-total.gif" width="26%">
