@@ -1,4 +1,5 @@
-# All About Optitrack and Vicon Motion Capture
+# Optitrack and Vicon Mocap Tutorial
+
 This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 
 [![](media/mocap.png)](https://youtu.be/VcUyDthACsI) 
