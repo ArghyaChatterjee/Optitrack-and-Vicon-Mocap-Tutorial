@@ -26,6 +26,7 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 ### Marker Pose Estimation
 - Aligning rigid body pivot point with a replicated 3D Model [[website]](https://docs.optitrack.com/motive/rigid-body-tracking/aligning-rigid-body-pivot-point-with-a-replicated-3d-model)
 - Rigid Body Animation [[code]](https://aaronolsen.github.io/tutorials/motion/unification.html)
+- Mocap4ROS2 Setup [[code]](https://docs.optitrack.com/robotics/mocap4ros2-setup)
 - Lesson 1 - How to Make a Perfect Rigid Body for optical Motion Capture [[video]](https://www.youtube.com/watch?v=WHCQjihvpuk)
 
 ## Articulated Object Pose Estimation
