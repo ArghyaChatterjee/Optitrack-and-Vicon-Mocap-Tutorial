@@ -28,8 +28,8 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 - Rigid Body Animation [[code]](https://aaronolsen.github.io/tutorials/motion/unification.html)
 
 ### Resources
-- Mocap4ROS2 Setup [[code]](https://docs.optitrack.com/robotics/mocap4ros2-setup)
-- Mocap4ROS2 Optitrack Demos [[code]](https://github.com/OptiTrack/mocap4ros2_optitrack_demos/blob/main/robot_arm_follower_demo/instructions.md)
+- Mocap4ROS2 Setup [[website]](https://docs.optitrack.com/robotics/mocap4ros2-setup)
+- Mocap4ROS2 Optitrack Demos [[readme]](https://github.com/OptiTrack/mocap4ros2_optitrack_demos/blob/main/robot_arm_follower_demo/instructions.md)
 - Data Streaming [[website]](https://v22.wiki.optitrack.com/index.php?title=Data_Streaming)
 - Lesson 1 - How to Make a Perfect Rigid Body for optical Motion Capture [[video]](https://www.youtube.com/watch?v=WHCQjihvpuk)
 
