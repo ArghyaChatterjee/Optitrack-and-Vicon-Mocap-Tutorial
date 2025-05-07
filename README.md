@@ -19,6 +19,10 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 - Here is a guideline on how to place a marker: https://docs.optitrack.com/motive/rigid-body-tracking
 - Avoid placing the markers in symmetrical shapes such as squares, isosceles, or equilateral triangles. Symmetrical arrangements make asset identification difficult and may cause the Rigid Body assets to flip during capture.
 
+### Clock Synchronization (from opti-track host to local PC)
+- Chrony ROS [[Tutorial]](https://wiki.ros.org/ROS/NetworkSetup)
+- Chrony [[repo]](https://chrony-project.org/documentation.html)
+
 <div align="center">
     <img src="media/camera_to_object.png" width="78%">
 </div>
