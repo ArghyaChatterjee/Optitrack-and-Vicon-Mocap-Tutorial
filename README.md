@@ -69,6 +69,7 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 </div>
 
 ### Resources 
+- SOMA: Solving Optical Marker-Based MoCap Automatically [[code]](https://github.com/nghorbani/soma) [[paper]]() 
 - Vicon2GT [[code]](https://github.com/rpng/vicon2gt) [[pdf]](https://github.com/ArghyaChatterjee/All-About-Optitrack-Motion-Capture-Mocap/blob/main/tr_vicon2gt.pdf)
 - Lesson 2 - Full body reCalibration with the Noitom Perception Neuron Pro [[video]](https://www.youtube.com/watch?v=V1supw4XfOs)
 
