@@ -56,6 +56,9 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 - Pose2SimBlender [[code]](https://github.com/davidpagnon/Pose2Sim_Blender)
 - Pose2Sim [[code]](https://github.com/perfanalytics/pose2sim) [[paper]]() 
 - SOMA: Solving Optical Marker-Based MoCap Automatically [[code]](https://github.com/nghorbani/soma) [[paper]]()
+- Fair Motion [[code]](https://github.com/facebookresearch/fairmotion) [[paper]]()
+- Deep Motion [[code]](https://github.com/DeepMotionEditing/deep-motion-editing) [[paper]]() 
+- Hand Embodiment [[code]](https://github.com/dfki-ric/hand_embodiment) [[paper]]() 
 
 
 ## Robot Pose Estimation
