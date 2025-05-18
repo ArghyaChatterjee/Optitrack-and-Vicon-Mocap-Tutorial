@@ -35,7 +35,7 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 - Mocap4ROS2 Setup [[website]](https://docs.optitrack.com/robotics/mocap4ros2-setup)
 - Mocap4ROS2 Optitrack Demos [[readme]](https://github.com/OptiTrack/mocap4ros2_optitrack_demos/blob/main/robot_arm_follower_demo/instructions.md)
 - Data Streaming [[website]](https://v22.wiki.optitrack.com/index.php?title=Data_Streaming)
-- Lesson 1 - How to Make a Perfect Rigid Body for optical Motion Capture [[video]](https://www.youtube.com/watch?v=WHCQjihvpuk)
+- How to Make a Perfect Rigid Body for optical Motion Capture [[video]](https://www.youtube.com/watch?v=WHCQjihvpuk)
 
 ## Articulated Object Pose Estimation
 
@@ -55,7 +55,7 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 - Blender Plugin [[code]](https://github.com/JonathanCamargo/BlendOsim) [[paper]]()
 - Pose2SimBlender [[code]](https://github.com/davidpagnon/Pose2Sim_Blender)
 - Pose2Sim [[code]](https://github.com/perfanalytics/pose2sim) [[paper]]() 
-- SOMA: Solving Optical Marker-Based MoCap Automatically [[code]](https://github.com/nghorbani/soma) [[paper]]()
+- SOMA [[code]](https://github.com/nghorbani/soma) [[paper]]()
 - Fair Motion [[code]](https://github.com/facebookresearch/fairmotion) [[paper]]()
 - Deep Motion [[code]](https://github.com/DeepMotionEditing/deep-motion-editing) [[paper]]() 
 - Hand Embodiment [[code]](https://github.com/dfki-ric/hand_embodiment) [[paper]]() 
@@ -80,7 +80,7 @@ This is a tutorial repository for the OptiTrack and Vicon motion capture system.
 
 ### Resources 
 - Vicon2GT [[code]](https://github.com/rpng/vicon2gt) [[pdf]](https://github.com/ArghyaChatterjee/All-About-Optitrack-Motion-Capture-Mocap/blob/main/tr_vicon2gt.pdf)
-- Lesson 2 - Full body reCalibration with the Noitom Perception Neuron Pro [[video]](https://www.youtube.com/watch?v=V1supw4XfOs)
+- Full body reCalibration with the Noitom Perception Neuron Pro [[video]](https://www.youtube.com/watch?v=V1supw4XfOs)
 
 ## Manipulator Pose Estimation
 
